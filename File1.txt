@@ -1,0 +1,7 @@
+<<<<<<< File1.txt
+updating svc-svn repo
+=======
+code merged from repository
+>>>>>>> .r12
+
+Appended to file
